@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "q": "What is the capital of India?",
+    "options": { "a": "Delhi", "b": "Mumbai", "c": "Banglore", "d": "Kolkata" },
+    "a": "a"
+  },
+  {
+    "id": "2",
+    "q": "What is the capital of Maharashtra?",
+    "options": { "a": "Pune", "b": "Mumbai", "c": "Indore", "d": "Bhopal" },
+    "a": "b"
+  },
+  {
+    "id": "3",
+    "q": "What is the boiling point of water(in degree celsius)?",
+    "options": { "a": "50", "b": "75", "c": "100", "d": "125" },
+    "a": "c"
+  },
+  {
+    "id": "4",
+    "q": "What is the height of Mount Everest?",
+    "options": { "a": "8848", "b": "8884", "c": "8448", "d": "8844" },
+    "a": "a"
+  },
+  {
+    "id": "5",
+    "q": "Who was the first presedient of United States of America?",
+    "options": { "a": "Abraham Lincoln", "b": "Thomas Jefferson", "c": "John Adams", "d": "George Washington" },
+    "a": "d"
+  }
+]
